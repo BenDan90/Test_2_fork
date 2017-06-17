@@ -5,4 +5,8 @@ allgemeiner Test
 zeile 5
 
 neuer test
+
 schrank
+
+noch ein test
+>>>>>>> 433520cd908e3015d5c1514a368b40bdc175a812
